@@ -5,7 +5,7 @@ import './index.css';
 function App() {
   return (
     <>
-      <h1>Bienvenidos a CECyTEM Metepec II</h1>
+      <h1>Bienvenidos a CECyTEM Metepec II Carreas</h1>
       <button>Animación digital</button>
       <button>Programación</button>
     </>
